@@ -1,6 +1,6 @@
 # factorypal
 To build: mvn clean instal
-To execute: 
+To execute: java -jar target/factorypal.jar
 To test: http://localhost:18449/swagger-ui/#/
 
 Env variables to help to configure:
